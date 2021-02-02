@@ -1,2 +1,2 @@
-# Instituto-Amebas.github.io
+# InstitutoAmebas.github.io
 Página web para el Instituto Amebas
